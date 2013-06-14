@@ -1,0 +1,1 @@
+{"remote_url":"http://heroku:osui59a24am79x@taps3.heroku.com","local_tables_info":{"microposts":3,"schema_migrations":2,"users":3},"session_uri":"/sessions/2321358789","table_filter":null,"stream_state":{},"klass":"Taps::Push","database_url":"sqlite://db/development.sqlite3","completed_tables":[]}
